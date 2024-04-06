@@ -1,9 +1,9 @@
-## steps:
+# steps:
 
-# clean data
+## clean data
 
-# prepare data
+## prepare data
 
-# train model 
+## train model 
 
-# test model
+## test model
